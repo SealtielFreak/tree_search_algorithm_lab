@@ -16,6 +16,9 @@ df = pd.DataFrame(data)
 df
 #%%
 # Calculate the sums
+import matplotlib
+matplotlib.use('TkAgg')
+
 sum_apples = df['Apples'].sum()
 sum_bananas = df['Bananas'].sum()
 
