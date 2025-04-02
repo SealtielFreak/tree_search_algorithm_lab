@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b75cd3-41db-4e5f-a2c3-3b35eae26d7e" name="Changes" comment="">
+    <list default="true" id="08b75cd3-41db-4e5f-a2c3-3b35eae26d7e" name="Changes" comment="Minor changes">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/random_search.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tree_search.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +28,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Sealtiel/Development/tree_search_algorithm_lab",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sealtiel/Development/tree_search_algorithm_lab&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="tree_search_algorithm_lab" />
@@ -108,10 +108,103 @@
       <updated>1716787254068</updated>
       <workItem from="1716787255138" duration="6000" />
       <workItem from="1716821930161" duration="636000" />
+      <workItem from="1716829560424" duration="9502000" />
+      <workItem from="1717020357390" duration="9232000" />
+      <workItem from="1717176039327" duration="58000" />
+      <workItem from="1717432229488" duration="1025000" />
     </task>
+    <task id="LOCAL-00001" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1716834161974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716834161974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1717003433977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717003433977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update .gitignore">
+      <option name="closed" value="true" />
+      <created>1717003494393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717003494393</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First collision implemented">
+      <option name="closed" value="true" />
+      <created>1717005190922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717005190922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TreeNode implemented">
+      <option name="closed" value="true" />
+      <created>1717008313953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717008313953</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix insert point in Node">
+      <option name="closed" value="true" />
+      <created>1717010914466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717010914466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1717012632707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717012632707</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1717432404581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717432404581</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update .gitignore" />
+    <MESSAGE value="First collision implemented" />
+    <MESSAGE value="TreeNode implemented" />
+    <MESSAGE value="Fix insert point in Node" />
+    <MESSAGE value="Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Sealtiel/Development/tree_search_algorithm_lab/tree_search.ipynb</url>
+          <line>124</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Sealtiel/Development/tree_search_algorithm_lab/tree_search.ipynb</url>
+          <line>166</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
